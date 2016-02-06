@@ -206,6 +206,7 @@ function create_config( )
     enabled_plugins = {
     "onservice",
     "inrealm",
+    "Auto_Leave",
     "ingroup",
     "inpm",
     "banhammer",
