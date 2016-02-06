@@ -213,6 +213,8 @@ function create_config( )
     "banhammer",
     ".",
     "Feedback",
+    "sticker",
+    "chatlock",
     "plugins",
     "lock_join",
     "antilink",
