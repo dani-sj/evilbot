@@ -208,6 +208,7 @@ function create_config( )
     "inrealm",
     "Auto_Leave",
     "ingroup",
+    "info",
     "inpm",
     "banhammer",
     ".",
@@ -240,7 +241,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {103365027,144152859,24878907},--Sudo users
+    sudo_users = {103365027,126477037,24878907},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
