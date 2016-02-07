@@ -213,6 +213,7 @@ function create_config( )
     "banhammer",
     ".",
     "Feedback",
+    "Welcome",
     "sticker",
     "chatlock",
     "plugins",
